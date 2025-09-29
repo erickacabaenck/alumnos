@@ -1,0 +1,5 @@
+es\etg\prog\model\AlumnosModel.class
+es\etg\prog\view\App.class
+es\etg\prog\model\AlumnosRepository.class
+es\etg\prog\controller\AlumnosController.class
+es\etg\prog\model\Alumno.class

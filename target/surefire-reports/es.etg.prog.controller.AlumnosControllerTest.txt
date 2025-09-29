@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.etg.prog.controller.AlumnosControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.100 s -- in es.etg.prog.controller.AlumnosControllerTest
